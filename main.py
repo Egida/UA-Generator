@@ -1,3 +1,7 @@
+# Coded by Osiris
+# Simple UserAgent Generator 
+# Python Code Script
+
 import ua_generator
 
 amount = int(input("How many >> "))
